@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![j2nrud2](https://img.shields.io/badge/j2nrud2-github-blue?logo=github)](https://github.com/j2nrud2)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a mathematics major sophomore at University of Illinois Urbana-Champaign.
 
 #### Contact
-
-Email: user[at]fas.harvard.edu
+Email: junrudu2006[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+University of Illinois Urbana-Champaign, 2024-2028
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+#### Abilities
+Languages: Fluent in English (full professional proficiency); immature proficiency in German
+Technical Tools: Proficient with AI productivity tools (ChatGPT, Notion AI, Tome) and Microsoft Excel
+AI & LLM Applications: Prompt engineering, large language model applications, and AI agent development
+Business & Analysis: Business model design, competitive analysis, and market/industry research
